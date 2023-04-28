@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WolfMineOfficial
-- 👀 I’m interested in ... learning HTML, PHP.
-- 🌱 I’m currently learning ... HTML
+- 👀 I’m interested in ... learning JAVA, PHP.
+- 🌱 I’m currently learning ... PHP
 - 💞️ I’m looking to collaborate on ... i dont know
 - 📫 How to reach me ... Email: minethegame3@gmail.com
 
